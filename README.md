@@ -10,3 +10,5 @@ In the project directory run the following in the terminal
 ```bash
 node starting/main.js
 ```
+
+https://github.com/RealGordon/find-your-hat/blob/main/images/terminal_pic.PNG
