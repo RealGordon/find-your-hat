@@ -10,4 +10,4 @@ In the project directory run the following in the terminal
 ```bash
 node starting/main.js
 ```
-![plot](./images/terminal_pic.png)
+![plot](./images/terminal_pic.PNG)
